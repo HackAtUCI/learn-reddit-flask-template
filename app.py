@@ -11,7 +11,7 @@ def index():
     subreddit_name = '' #Assign this variable to your favorite subreddit.
     #TODO: Create an instance of the praw Reddit object. Refer to reddit.py
     #TODO: Generate a list of top ten posts for your subreddit.
-    #TODO: Pass the instances you created in the render_template function call below.
+    #TODO: Pass the list you created above to the render_template function call below.
     return render_template('index.html',posts = ,name = )
 
 if __name__ == "__main__":
