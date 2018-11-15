@@ -18,3 +18,6 @@ In this workshop, you will learn how to call the Reddit API to retrieve informat
 - Reddit API Documentation: https://www.reddit.com/dev/api/ 
 - Flask Documentation: http://flask.pocoo.org/docs/1.0/
 - Python Documentation: https://docs.python.org/3/
+- JS Documentation: https://www.w3schools.com/js/
+- CSS Documentation: https://www.w3schools.com/css/
+- HTML Documentation: https://www.w3schools.com/html/
