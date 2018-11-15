@@ -9,7 +9,7 @@ from urllib import request
 def create_reddit_instance(read_only = False):
     '''This function reads the crendentials from credentials.json and creates a Reddit instance.
         You will use this instance to retrieve further information. Before you complete this 
-        function, make sure to create your crendentials on the Reddit website, update 
+        function, be sure to create your credentials on the Reddit website, update 
         credentials_template.json and rename it to credentials.json
     '''
     credentials = None
@@ -28,8 +28,8 @@ def create_reddit_instance(read_only = False):
     
     
 def ten_top_posts(reddit_instance, subreddit_name):
-    '''This function takes a subreddit name as a string and prints out the ten latest posts
-    under the hot category'''
+    '''This function takes a subreddit name as a string and prints out ten posts
+    under the top category'''
     #TODO: Create a subreddit instance with subreddit_name and reddit_instance.
 
     #TODO: Return the top posts in the subreddit by calling the .top() function on it.
