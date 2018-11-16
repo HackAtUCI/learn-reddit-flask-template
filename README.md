@@ -13,7 +13,7 @@ In this workshop, you will learn how to set up a Reddit application and integrat
 
 ## Reference Materials
 - Finished Repository: https://github.com/raopg/learn-reddit-flask-completed
-- Reddit and Flask Slides: <INSERT WHEN FINISHED> 
+- Reddit and Flask Slides: https://github.com/hackuci/learn-reddit-flask-template 
 - Flask Intro Slides (another workshop): https://docs.google.com/presentation/d/1SEIPSkED9EtYAEMUwWfmuQpY6Pq5BQvfGyYaxpDV9ks/edit?usp=sharing
 - Reddit API Documentation: https://www.reddit.com/dev/api/ 
 - Flask Documentation: http://flask.pocoo.org/docs/1.0/
