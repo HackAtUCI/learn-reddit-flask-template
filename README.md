@@ -6,8 +6,9 @@ In this workshop, you will learn how to set up a Reddit application and integrat
 ## Prerequisites
 - Install Python
 - Install Pip
-- Clone this repository.
-- Install Praw (Python Reddit Wrapper) and Flask by running pip install -r requirements.txt
+- Clone this repository to your Desktop
+- Navigate to your repository in command line
+- Install Praw (Python Reddit Wrapper) and Flask by running pip install -r requirements.txt inside the repository directory
 - Create an account on Reddit (if you do not have one already): https://www.reddit.com/
 - Optional: review Flask intro slides below for a better idea of Flask
 
