@@ -1,14 +1,14 @@
 # Reddit API - Flask Template
 
 ## Introduction
-In this workshop, you will learn how to call the Reddit API to retrieve information and display it on a webpage
+In this workshop, you will learn how to set up a Reddit application and integrate it with your web app using [Flask](http://flask.pocoo.org/docs/1.0/) and the [jinja2](http://jinja.pocoo.org/docs/2.10/) templating engine.
 
 ## Prerequisites
 - Install Python
 - Install Pip
-- Install Flask by running "pip install flask"
-- Install Praw (Python Reddit Wrapper) by running "pip install praw"
-- Create an account on Reddit: https://www.reddit.com/
+- Clone this repository.
+- Install Praw (Python Reddit Wrapper) and Flask by running pip install -r requirements.txt
+- Create an account on Reddit (if you do not have one already): https://www.reddit.com/
 - Optional: review Flask intro slides below for a better idea of Flask
 
 ## Reference Materials
